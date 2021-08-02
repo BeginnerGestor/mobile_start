@@ -1,2 +1,1 @@
-# mobile_start
-Project Start Mobile Ago-2021
+site star in HTML and CSS for mobile
